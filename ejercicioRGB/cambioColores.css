@@ -1,0 +1,27 @@
+body{
+    
+    text-align: center;
+    padding: 50px;
+}   
+
+label {
+    font-size: 30px;
+    color: #df19df;
+}
+input[type="number"] {
+    width: 60px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+h1 {
+    color: #1ac415;
+}
+p {
+    
+    font-size: 20px;
+    color: #e47474;
+text-shadow: 1px 1px 2px #000000;
+}
+
